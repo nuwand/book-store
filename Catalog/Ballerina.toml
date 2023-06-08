@@ -1,0 +1,8 @@
+[package]
+org = "NuwanDias"
+name = "Catalog"
+version = "1.0.0"
+distribution = "2201.3.4"
+
+[build-options]
+observabilityIncluded = true
